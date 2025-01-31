@@ -1,27 +1,43 @@
-﻿The Project Gutenberg eBook of Nyári zivatar, by Lajos Biró
+﻿The Project Gutenberg eBook, Nyári zivatar, by Lajos Biró
 
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions 
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at 
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
 
 Title: Nyári zivatar
+       Regény
+
 
 Author: Lajos Biró
 
-Release Date: May 7, 2020 [eBook #62049]
-[Most recently updated: December 25, 2020]
+
+
+Release Date: May 7, 2020  [eBook #62049]
 
 Language: Hungarian
 
 Character set encoding: UTF-8
 
-Produced by: Albert László
 
-*** START OF THE PROJECT GUTENBERG EBOOK NYÁRI ZIVATAR ***
+***START OF THE PROJECT GUTENBERG EBOOK NYáRI ZIVATAR***
+
+
+E-text prepared by Albert László from page images generously made
+available by the Google Books Library Project (https://books.google.com)
+
+
+
+Note: Images of the original pages are available through
+      the Google Books Library Project. See
+      https://books.google.com/books?id=__CAHy1EYzQC&hl=en
+
 
 
 
@@ -4492,12 +4508,15 @@ A nyomdai hibákat javítottuk. Ezek listája:
 
 
 
+***END OF THE PROJECT GUTENBERG EBOOK NYáRI ZIVATAR***
 
-*** END OF THE PROJECT GUTENBERG EBOOK NYÁRI ZIVATAR ***
 
-***** This file should be named 62049-0.txt or 62049-0.zip *****
+******* This file should be named 62049-0.txt or 62049-0.zip *******
+
+
 This and all associated files of various formats will be found in:
-    https://www.gutenberg.org/6/2/0/4/62049/
+http://www.gutenberg.org/dirs/6/2/0/4/62049
+
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
@@ -4597,8 +4616,8 @@ performed, viewed, copied or distributed:
   restrictions whatsoever. You may copy it, give it away or re-use it
   under the terms of the Project Gutenberg License included with this
   eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you will have to check the laws of the country where
-  you are located before using this eBook.
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
 
 1.E.2. If an individual Project Gutenberg-tm electronic work is
 derived from texts not protected by U.S. copyright law (does not
@@ -4768,9 +4787,9 @@ and permanent future for Project Gutenberg-tm and future
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
+www.gutenberg.org 
 
-Section 3. Information about the Project Gutenberg Literary
+Section 3. Information about the Project Gutenberg Literary 
 Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
@@ -4850,5 +4869,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-
 
